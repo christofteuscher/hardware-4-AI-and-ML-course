@@ -9,3 +9,13 @@ these emerging fields. By using HW/SW co-design, students will learn how to use,
 optimize, and evaluate specialized HW, such as GPUs, TPUs, FPGAs, and neuromorphic chips, for modern
 AI/ML algorithms. The intersection of HW and AI/ML is a rapidly growing field with significant career
 opportunities for computer engineers.
+
+LEARNING OUTCOMES:
+- Understand the principles and tools for SW/HW co-design.
+- Understand the foundations of neural networks.
+- Understand the foundations of Large Language Models (LLMs).
+- Understand the foundations of specialized hardware for AI/ML, such as GPUs, TPU, FPGAs, and neuromorphic architectures.
+- Capable of mapping algorithms onto hardware.
+- Capable of evaluating HW designs.
+- Capable of optimizing HW designs through co-design for computational power, efficiency, and flexibility.
+- Capable of using modern SW and HW tools for designing and using specialized HW for AI/ML.
