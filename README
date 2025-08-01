@@ -1,4 +1,43 @@
-LICENSE:
+HARDWARE FOR ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+ECE 410/510
+Spring 2025
+
+The course was proposed and developed by Christof Teuscher. It was first offered during the spring term 
+of 2025 in the Department of Electrical and Computer Engineering (ECE) at Portland State University (PSU).
+
+COURSE DESCRIPTION:
+Hardware (HW) is the foundation upon which artificial intelligence (AI) and machine learning (ML) systems
+are built. It provides the necessary computational power, efficiency, and flexibility to drive innovation 
+in these emerging fields. By using HW/SW co-design, students will learn how to use, design, simulate,
+optimize, and evaluate specialized HW, such as GPUs, TPUs, FPGAs, and neuromorphic chips, for modern
+AI/ML algorithms. The central emphasis on SW/HW is a critical approach for optimizing artificial intelligence 
+algorithms using specialized hardware. This methodology involves a holistic view of system design, where 
+tasks are strategically partitioned between software and hardware components to achieve maximum efficiency 
+and performance. The intersection of HW and AI/ML is a rapidly growing field with significant career
+opportunities for computer engineers. 
+
+LEARNING OUTCOMES:
+- Understand the principles and tools for SW/HW co-design.
+- Understand the foundations of neural networks.
+- Understand the foundations of Large Language Models (LLMs).
+- Understand the foundations of specialized hardware for AI/ML, such as GPUs, TPU, FPGAs, and neuromorphic architectures.
+- Capable of mapping algorithms onto hardware.
+- Capable of evaluating HW designs.
+- Capable of optimizing HW designs through co-design for computational power, efficiency, and flexibility.
+- Capable of using modern SW and HW tools for designing and using specialized HW for AI/ML.
+
+CONTACT:
+- E-mail: teuscher@pdx.edu
+- Lab: https://www.teuscher-lab.com
+- LinkedIn: https://www.linkedin.com/in/christofteuscher
+
+COPYRIGHT and LICENSE:
 - CC BY-NC 4.0
 - Attribution-NonCommercial 4.0 International
 - https://creativecommons.org/licenses/by-nc/4.0
+
+INSTITUTIONAL LINKS:
+- https://www.pdx.edu/electrical-computer-engineering
+- https://www.pdx.edu
+
+
