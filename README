@@ -1,9 +1,10 @@
 HARDWARE FOR ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
-ECE 410/510
-Spring 2025
 
-The course was proposed and developed by Christof Teuscher. It was first offered during the spring term 
-of 2025 in the Department of Electrical and Computer Engineering (ECE) at Portland State University (PSU).
+The course was proposed and developed by Christof Teuscher. It was first offered for both undergraduate 
+and graduate students during the spring term of 2025 in the Department of Electrical and Computer 
+Engineering (ECE) at Portland State University (PSU).  
+
+This Github repository contains all relevant course materials.
 
 COURSE DESCRIPTION:
 Hardware (HW) is the foundation upon which artificial intelligence (AI) and machine learning (ML) systems
