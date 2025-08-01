@@ -43,10 +43,10 @@ Electrical and Computer Engineering, Portland State University, 2025. [Online]. 
 https://github.com/christofteuscher/hardware-4-AI-and-ML-course
 
 @Misc{teuscher25:hw4ai,
-  author =	     {C. Teuscher},
-  title =	       {Class Lectures: ``Hardware for Artificial Intelligence and Machine Learning''},
+  author =       {C. Teuscher},
+  title =        {Class Lectures: ``Hardware for Artificial Intelligence and Machine Learning''},
   howpublished = {Department of Electrical and Computer Engineering, Portland State University},
-  year =	       2025,
+  year =         2025,
   url =          {https://github.com/christofteuscher/hardware-4-AI-and-ML-course}
 }
 
