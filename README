@@ -37,6 +37,19 @@ COPYRIGHT and LICENSE:
 - Attribution-NonCommercial 4.0 International
 - https://creativecommons.org/licenses/by-nc/4.0
 
+HOW TO GIVE CREDIT:
+C. Teuscher, Class Lectures: “Hardware for Artificial Intelligence and Machine Learning.” Department of 
+Electrical and Computer Engineering, Portland State University, 2025. [Online]. Available: 
+https://github.com/christofteuscher/hardware-4-AI-and-ML-course
+
+@Misc{teuscher25:hw4ai,
+  author =	     {C. Teuscher},
+  title =	       {Class Lectures: ``Hardware for Artificial Intelligence and Machine Learning''},
+  howpublished = {Department of Electrical and Computer Engineering, Portland State University},
+  year =	       2025,
+  url =          {https://github.com/christofteuscher/hardware-4-AI-and-ML-course}
+}
+
 INSTITUTIONAL LINKS:
 - https://www.pdx.edu/electrical-computer-engineering
 - https://www.pdx.edu
